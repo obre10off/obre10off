@@ -3,8 +3,8 @@
 
 ## My Tech Stack
 
-- **Languages**: Python, JavaScript, TypeScript, Solidity
-- **Frameworks**: React, Node.js, TensorFlow, PyTorch
+- **Languages**: Python,TypeScript,Rust,
+- **Frameworks**: React, NextJS, Node.js, FastAPI, PyTorch
 - **Tools**: Docker, Git, Kubernetes, VS Code
 - **Blockchain**: Ethereum, Web3.js, Hardhat
 

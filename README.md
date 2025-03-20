@@ -5,7 +5,7 @@
 
 - **Languages**: Python,TypeScript,Rust,
 - **Frameworks**: React, NextJS, FastAPI, PyTorch, Eliza, Rig
-- **Tools**: Docker, Git, Kubernetes, Cursor
+- **Tools**: Docker, Git, Kubernetes, Cursor IDE
 - **Blockchain**: Ethereum, Web3.js, Hardhat, Anchor
 
 <!---

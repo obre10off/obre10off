@@ -6,7 +6,7 @@
 - **Languages**: Python,TypeScript,Rust,
 - **Frameworks**: React, NextJS, FastAPI, 
 - **Tools**: Docker, Git, Kubernetes,Claude Code
--
+
 
 <!---
 obre10off/obre10off is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

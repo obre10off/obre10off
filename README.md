@@ -3,9 +3,9 @@
 
 ## My Tech Stack
 
-- **Languages**: Python,TypeScript,Rust,
+- **Languages**: Python,TypeScript, Rust,
 - **Frameworks**: React, NextJS, FastAPI, 
-- **Tools**: Docker, Git, Kubernetes,Claude Code
+- **Tools**: Docker, Git, Kubernetes, Claude Code
 
 
 <!---

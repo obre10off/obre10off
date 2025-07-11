@@ -4,9 +4,9 @@
 ## My Tech Stack
 
 - **Languages**: Python,TypeScript,Rust,
-- **Frameworks**: React, NextJS, FastAPI, PyTorch, Eliza, Rig
-- **Tools**: Docker, Git, Kubernetes, Cursor IDE
-- **Blockchain**: Ethereum, Web3.js, Hardhat, Anchor
+- **Frameworks**: React, NextJS, FastAPI, 
+- **Tools**: Docker, Git, Kubernetes,Claude Code
+-
 
 <!---
 obre10off/obre10off is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

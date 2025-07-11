@@ -1,4 +1,4 @@
-## Applying agentic systems into defi 🥷🏿
+## Building agentic systems🥷🏿
 
 
 ## My Tech Stack
